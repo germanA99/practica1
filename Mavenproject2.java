@@ -23,7 +23,7 @@ public class Mavenproject2 {
                 
         System.out.println("ingresar base del triangulo ");
         base = input.nextDouble();
-        
+        // ingreso de comentario
         System.out.println(" ingresar altura de triangulo ");
         altura = input.nextDouble();
         
